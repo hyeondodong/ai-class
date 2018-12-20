@@ -8,7 +8,11 @@ public class TestMain {
 
 		System.out.println("kkkkk");
 		System.out.println("하이하이");
+
 		System.out.println("충돌");
+
+		System.out.println("차에타봐");
+
 
 	}
 
