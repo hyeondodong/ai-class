@@ -6,6 +6,7 @@ public class TestMain {
 		System.out.println("까불지마ㅋ");
 		System.out.println("짜증나 너!");
 		System.out.println("111111111000000000");
+		System.out.println("kkkkk");
 	}
 
 }
